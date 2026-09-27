@@ -171,3 +171,11 @@ ESP32 продовжує:
 | Перехоплення даних у мережі | Зловмисник може отримати або змінити телеметрію та команди | Використання захищеного TLS-з'єднання |
 | Втрата зв'язку з хмарою | Неможливість віддаленого керування та передавання даних | Локальне виконання правил на ESP32 і збереження телеметрії до відновлення зв'язку |
 | Збій виконавчого механізму або контролера | Надмірний полив, перегрів або інша небезпечна ситуація | Передбачення безпечного стану: вимкнення насоса та обігрівача при критичному збої |
+
+
+## 8. Джерела
+
+1. [ITU-T Y.2060 (Y.4000) — Overview of the Internet of Things](https://www.itu.int/rec/T-REC-Y.2060). Дата звернення: 27.09.2026.
+2. [NISTIR 8228 — Considerations for Managing Internet of Things (IoT) Cybersecurity and Privacy Risks](https://csrc.nist.gov/pubs/ir/8228/final). Дата звернення: 27.09.2026.
+3. [ENISA — Baseline Security Recommendations for IoT](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot). Дата звернення: 27.09.2026.
+4. [MQTT — офіційний сайт протоколу](https://mqtt.org/). Дата звернення: 27.09.2026.
